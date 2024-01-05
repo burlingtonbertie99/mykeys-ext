@@ -1,4 +1,4 @@
-module github.com/keys-pub/keys-ext/vault
+module github.com/burlingtonbertie99/mykeys-ext/vault
 
 go 1.14
 
