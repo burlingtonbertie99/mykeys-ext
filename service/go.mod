@@ -1,4 +1,4 @@
-module github.com/keys-pub/keys-ext/service
+module github.com/burlingtonbertie99/mykeys-ext/service
 
 go 1.14
 
