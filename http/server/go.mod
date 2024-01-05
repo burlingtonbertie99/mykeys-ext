@@ -1,4 +1,4 @@
-module github.com/keys-pub/keys-ext/http/server
+module github.com/burlingtonbertie99/mykeys-ext/http/server
 
 go 1.14
 
