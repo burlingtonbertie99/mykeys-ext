@@ -1,4 +1,4 @@
-module github.com/keys-pub/keys-ext/sqlcipher
+module github.com/burlingtonbertie99/mykeys-ext/sqlcipher
 
 go 1.15
 
