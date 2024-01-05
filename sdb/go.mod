@@ -1,4 +1,4 @@
-module github.com/keys-pub/keys-ext/sdb
+module github.com/burlingtonbertie99/mykeys-ext/sdb
 
 go 1.14
 
