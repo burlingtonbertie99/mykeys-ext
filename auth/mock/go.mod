@@ -1,4 +1,4 @@
-module github.com/keys-pub/keys-ext/auth/mock
+module github.com/burlingtonbertie99/mykeys-ext/auth/mock
 
 go 1.14
 
