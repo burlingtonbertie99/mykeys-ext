@@ -1,4 +1,4 @@
-module github.com/keys-pub/keys-ext/auth/rpc
+module github.com/burlingtonbertie99/mykeys-ext/auth/rpc
 
 go 1.14
 
