@@ -1,4 +1,4 @@
-module github.com/keys-pub/keys-ext/auth/cmds/fido2
+module github.com/burlingtonbertie99/mykeys-ext/auth/cmds/fido2
 
 go 1.14
 
