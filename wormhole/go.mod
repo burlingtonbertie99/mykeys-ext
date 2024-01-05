@@ -1,4 +1,4 @@
-module github.com/keys-pub/keys-ext/wormhole
+module github.com/burlingtonbertie99/mykeys-ext/wormhole
 
 go 1.14
 
