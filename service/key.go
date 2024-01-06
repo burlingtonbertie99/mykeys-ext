@@ -132,14 +132,32 @@ func (s *service) KeyGenerate(ctx context.Context, req *KeyGenerateRequest) (*Ke
 		return nil, errors.Errorf("no key type specified")
 	}
 	var key keys.Key
+
+	var keystring = ""
+
 	switch req.Type {
+
+	//case string(keys.SGXHSM):
+	//	//	key = keys.GenerateSGXHSMKey()
+
+	case string(keys.SGXHSM):
+		keystring = keys.GenerateSGXHSMKey()
+
 	case string(keys.EdX25519):
 		key = keys.GenerateEdX25519Key()
 	case string(keys.X25519):
 		key = keys.GenerateX25519Key()
+
+	case string(keys.RSA):
+		key = keys.GenerateRSAKey()
+
 	default:
 		return nil, errors.Errorf("unknown key type %s", req.Type)
 	}
+	if keystring == "" {
+
+	}
+
 	vk := api.NewKey(key)
 	now := s.clock.NowMillis()
 	vk.CreatedAt = now
