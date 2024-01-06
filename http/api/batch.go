@@ -23,6 +23,7 @@ type BatchRequest struct {
 
 // NewBatchRequest returns batch request.
 func NewBatchRequest(id string, method string, urs string, contentHash string, now time.Time, key *keys.EdX25519Key) (*BatchRequest, error) {
+
 	auth, err := http.NewAuth(method, urs, contentHash, now, key)
 	if err != nil {
 		return nil, err
