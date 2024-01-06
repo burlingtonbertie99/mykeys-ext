@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/burlingtonbertie99/mykeys v0.0.1
-	github.com/burlingtonbertie99/mykeys-ext/firestore v0.0.0-00010101000000-000000000000
+	github.com/burlingtonbertie99/mykeys-ext/firestore v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/api v0.0.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible

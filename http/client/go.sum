@@ -193,6 +193,7 @@ github.com/keybase/go.dbus v0.0.0-20200324223359-a94be52c0b03/go.mod h1:a8clEhrr
 github.com/keybase/saltpack v0.0.0-20200430135328-e19b1910c0c5 h1:X6nYzCVURqxDv0GuyptaCcRFTXPM0rSGNUrTeQ2NKUQ=
 github.com/keybase/saltpack v0.0.0-20200430135328-e19b1910c0c5/go.mod h1:FNSq71OhXv/Z1W9M37nnHxJVhXitc03z6qshCbAten8=
 github.com/keybase/saltpack v0.0.0-20210611181147-9dd0a21addc6/go.mod h1:FNSq71OhXv/Z1W9M37nnHxJVhXitc03z6qshCbAten8=
+github.com/keys-pub/keys v0.1.22/go.mod h1:+41yREqLkYyGfGf4OkhUn/ljwe/+kwhrlTq1/46Jj8c=
 github.com/keys-pub/secretservice v0.0.0-20200519003656-26e44b8df47f/go.mod h1:YRHMiVbZqh7u8xRm77CvwJNAZdDlNXwWvQ4DK0N9mYg=
 github.com/keys-pub/vault v0.0.0-20210331210903-81b7918663ab h1:8lK7YsGSsSJIucQAd8ii+X30OkEvVw6SfnvGWGPKbW4=
 github.com/keys-pub/vault v0.0.0-20210331210903-81b7918663ab/go.mod h1:sxAopp7DDlZLr09N+bPs/YMRzHt7fdyanLV+TErSFm0=
