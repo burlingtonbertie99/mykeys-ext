@@ -7,7 +7,6 @@ require (
 	github.com/burlingtonbertie99/mykeys v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/auth/fido2 v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/auth/mock v0.0.1
-	github.com/burlingtonbertie99/mykeys-ext/firestore v0.0.1 // indirect
 	github.com/burlingtonbertie99/mykeys-ext/http/api v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/client v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/server v0.0.1
