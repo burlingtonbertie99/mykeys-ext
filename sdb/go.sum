@@ -5,6 +5,7 @@ github.com/ScaleFT/sshkeys v0.0.0-20200327173127-6142f742bca5/go.mod h1:gxOHeajF
 github.com/burlingtonbertie99/mykeys v0.0.0-20200704210752-498c4412af12 h1:m+4V7IZOp+alE/01SlxbcPqjtGrNycEEX/qfucAK110=
 github.com/burlingtonbertie99/mykeys v0.0.0-20200704210752-498c4412af12/go.mod h1:fp0YtOeEUxacxWJHipDOiPJygETVbNRkrKvnF82O2CM=
 github.com/burlingtonbertie99/mykeys v0.0.1/go.mod h1:KFAvMOUidQEwjkv83YPWxYwrEIlm0h5mGSSGx92hYuI=
+github.com/burlingtonbertie99/mykeys v0.0.2/go.mod h1:PSDfXfOsTEjveTMjjIbuOFu5uzWOmHCVgKSGERTbZt0=
 github.com/burlingtonbertie99/mykeys v0.1.2-0.20200718011252-5bff924a7b82 h1:5+LdrDQrJqSIpQrRbTz9hGaIDsa2WmTS9lgJu/SGWdc=
 github.com/burlingtonbertie99/mykeys v0.1.2-0.20200718011252-5bff924a7b82/go.mod h1:fp0YtOeEUxacxWJHipDOiPJygETVbNRkrKvnF82O2CM=
 github.com/burlingtonbertie99/mykeys v0.1.2-0.20200720190123-59e415d170b7 h1:eSMzfZY1eQzdEHntu1JeNNbPQNVt/mtjyW9sgIa/PBA=
@@ -69,6 +70,7 @@ github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/hpcloud/tail v1.0.0 h1:nfCOvKYfkgYP8hkirhJocXT2+zOD8yUNjXaWfTlyFKI=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
+github.com/iancoleman/orderedmap v0.3.0/go.mod h1:XuLcCUkdL5owUCQeF2Ue9uuw1EptkJDkXXS7VoV7XGE=
 github.com/keybase/go-codec v0.0.0-20180928230036-164397562123/go.mod h1:r/eVVWCngg6TsFV/3HuS9sWhDkAzGG8mXhiuYA+Z/20=
 github.com/keybase/go-keychain v0.0.0-20200502122510-cda31fe0c86d h1:gVjhBCfVGl32RIBooOANzfw+0UqX8HU+yPlMv8vypcg=
 github.com/keybase/go-keychain v0.0.0-20200502122510-cda31fe0c86d/go.mod h1:W6EbaYmb4RldPn0N3gvVHjY1wmU59kbymhW9NATWhwY=

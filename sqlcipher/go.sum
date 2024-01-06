@@ -3,6 +3,7 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/ScaleFT/sshkeys v0.0.0-20200327173127-6142f742bca5 h1:VauE2GcJNZFun2Och6tIT2zJZK1v6jxALQDA9BIji/E=
 github.com/ScaleFT/sshkeys v0.0.0-20200327173127-6142f742bca5/go.mod h1:gxOHeajFfvGQh/fxlC8oOKBe23xnnJTif00IFFbiT+o=
 github.com/burlingtonbertie99/mykeys v0.0.1/go.mod h1:KFAvMOUidQEwjkv83YPWxYwrEIlm0h5mGSSGx92hYuI=
+github.com/burlingtonbertie99/mykeys v0.0.2/go.mod h1:PSDfXfOsTEjveTMjjIbuOFu5uzWOmHCVgKSGERTbZt0=
 github.com/burlingtonbertie99/mykeys v0.1.20 h1:qBf1HpT7tionv7s7sapqUPEvWS6AvJAQVgiQjfjSBtQ=
 github.com/burlingtonbertie99/mykeys v0.1.20/go.mod h1:h7u4e6MHcP9wdIlOhqFOJWrGZgk65KnSfaN5iioL2OI=
 github.com/burlingtonbertie99/mykeys v0.1.21-0.20210307171818-9d3d28f15da1 h1:iu1f5rVno2/pWpvLqsWulinPT5Zo47lJ3HDbzFnRTiU=
@@ -48,6 +49,7 @@ github.com/google/go-cmp v0.5.0/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/google/go-cmp v0.5.5 h1:Khx7svrCpmxxtHBq5j2mp/xVjsi8hQMfNLvJFAlrGgU=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/iancoleman/orderedmap v0.3.0/go.mod h1:XuLcCUkdL5owUCQeF2Ue9uuw1EptkJDkXXS7VoV7XGE=
 github.com/keybase/go-codec v0.0.0-20180928230036-164397562123/go.mod h1:r/eVVWCngg6TsFV/3HuS9sWhDkAzGG8mXhiuYA+Z/20=
 github.com/keybase/go-keychain v0.0.0-20200502122510-cda31fe0c86d/go.mod h1:W6EbaYmb4RldPn0N3gvVHjY1wmU59kbymhW9NATWhwY=
 github.com/keybase/go-keychain v0.0.0-20201121013009-976c83ec27a6/go.mod h1:N83iQ9rnnzi2KZuTu+0xBcD1JNWn1jSN140ggAF7HeE=

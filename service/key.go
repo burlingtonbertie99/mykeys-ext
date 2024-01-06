@@ -131,6 +131,9 @@ func (s *service) KeyGenerate(ctx context.Context, req *KeyGenerateRequest) (*Ke
 	if req.Type == "" {
 		return nil, errors.Errorf("no key type specified")
 	}
+
+	//if ctx.Value()=nil
+
 	var key keys.Key
 
 	var keystring = ""

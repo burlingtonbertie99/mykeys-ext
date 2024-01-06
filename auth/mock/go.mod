@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/alta/protopatch v0.3.3 // indirect
-	github.com/burlingtonbertie99/mykeys v0.0.1
+	github.com/burlingtonbertie99/mykeys v0.0.2
 	github.com/burlingtonbertie99/mykeys-ext/auth/fido2 v0.0.1
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.1.2

@@ -6,6 +6,7 @@ github.com/alta/protopatch v0.3.0/go.mod h1:r7rdYu1WeB34GpNYB42Nx/8gWt4KWuY0A3tv
 github.com/alta/protopatch v0.3.3 h1:AN3QCrESsabbqZ1YV5/uJo6+3XtVx6t0z/YUI6ks1M4=
 github.com/alta/protopatch v0.3.3/go.mod h1:Fon//d/jL8mn9EGpeFO2/dI0hdSauxtCkwnoxbhu2Js=
 github.com/burlingtonbertie99/mykeys v0.0.1/go.mod h1:KFAvMOUidQEwjkv83YPWxYwrEIlm0h5mGSSGx92hYuI=
+github.com/burlingtonbertie99/mykeys v0.0.2/go.mod h1:PSDfXfOsTEjveTMjjIbuOFu5uzWOmHCVgKSGERTbZt0=
 github.com/burlingtonbertie99/mykeys v0.1.17 h1:McZ4AswOHLEAkFibJmsZuka7QF4Igig4rwolkQYpwic=
 github.com/burlingtonbertie99/mykeys v0.1.17/go.mod h1:fp0YtOeEUxacxWJHipDOiPJygETVbNRkrKvnF82O2CM=
 github.com/burlingtonbertie99/mykeys-ext/auth/fido2 v0.0.0-20210331211138-7be3b751d8ad h1:ta9ztpBoDkngFMdaxVDKcb+DzK62JdfVk5unbjwIcIc=
@@ -59,6 +60,7 @@ github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/uuid v1.1.2 h1:EVhdT+1Kseyi1/pUmXKaFxYsDNy9RQYkMWRH68J/W7Y=
 github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/iancoleman/orderedmap v0.3.0/go.mod h1:XuLcCUkdL5owUCQeF2Ue9uuw1EptkJDkXXS7VoV7XGE=
 github.com/iancoleman/strcase v0.0.0-20180726023541-3605ed457bf7/go.mod h1:SK73tn/9oHe+/Y0h39VT4UCxmurVJkR5NA7kMEAOgSE=
 github.com/iancoleman/strcase v0.1.2/go.mod h1:SK73tn/9oHe+/Y0h39VT4UCxmurVJkR5NA7kMEAOgSE=
 github.com/keybase/go-codec v0.0.0-20180928230036-164397562123/go.mod h1:r/eVVWCngg6TsFV/3HuS9sWhDkAzGG8mXhiuYA+Z/20=
