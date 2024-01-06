@@ -17,4 +17,4 @@ require (
 	google.golang.org/grpc v1.36.1
 )
 
-// replace github.com/burlingtonbertie99/mykeys => ../../keys
+replace github.com/burlingtonbertie99/mykeys => ../../mykeys

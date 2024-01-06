@@ -17,4 +17,4 @@ require (
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 )
 
-// replace github.com/burlingtonbertie99/mykeys => ../../keys
+replace github.com/burlingtonbertie99/mykeys => ../../mykeys

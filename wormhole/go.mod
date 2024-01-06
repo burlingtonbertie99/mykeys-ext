@@ -14,7 +14,7 @@ require (
 	gortc.io/stun v1.22.2
 )
 
- replace github.com/burlingtonbertie99/mykeys => ../../keys
+ replace github.com/burlingtonbertie99/mykeys => ../../mykeys
 
  replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../http/api
 

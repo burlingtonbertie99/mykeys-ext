@@ -16,12 +16,12 @@ require (
 	google.golang.org/api v0.43.0
 )
 
-// replace github.com/burlingtonbertie99/mykeys => ../../../keys
+replace github.com/burlingtonbertie99/mykeys => ../../../mykeys
 
-// replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../api
+replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../api
 
-// replace github.com/burlingtonbertie99/mykeys-ext/firestore => ../../firestore
+replace github.com/burlingtonbertie99/mykeys-ext/firestore => ../../firestore
 
-// replace github.com/keys-pub/vault => ../../../vault
+replace github.com/keys-pub/vault => ../../../vault
 
-// replace github.com/burlingtonbertie99/mykeys-ext/ws/api => ../../ws/api
+replace github.com/burlingtonbertie99/mykeys-ext/ws/api => ../../ws/api

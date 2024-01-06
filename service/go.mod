@@ -36,7 +36,7 @@ require (
 	gortc.io/stun v1.23.0 // indirect
 )
 
-//replace github.com/burlingtonbertie99/mykeys => ../../mykeys
+replace github.com/burlingtonbertie99/mykeys => ../../mykeys
 
 replace github.com/burlingtonbertie99/mykeys-ext/sdb => ../sdb
 
@@ -61,7 +61,7 @@ replace github.com/burlingtonbertie99/mykeys-ext/ws/api => ../ws/api
 replace github.com/burlingtonbertie99/mykeys-ext/ws/client => ../ws/client
 
 
-replace github.com/keys-pub/keys => ../../mykeys
+//replace github.com/keys-pub/keys => ../../mykeys
 
 replace github.com/keys-pub/keys-ext/sdb => ../sdb
 

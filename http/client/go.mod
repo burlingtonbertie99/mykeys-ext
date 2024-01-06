@@ -11,14 +11,14 @@ require (
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
 )
 
-// replace github.com/burlingtonbertie99/mykeys => ../../../keys
+replace github.com/burlingtonbertie99/mykeys => ../../../mykeys
 
-// replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../api
+replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../api
 
-// replace github.com/burlingtonbertie99/mykeys-ext/http/server => ../server
+replace github.com/burlingtonbertie99/mykeys-ext/http/server => ../server
 
-// replace github.com/keys-pub/vault => ../../../vault
+replace github.com/keys-pub/vault => ../../../vault
 
-// replace github.com/burlingtonbertie99/mykeys-ext/firestore => ../../firestore
+replace github.com/burlingtonbertie99/mykeys-ext/firestore => ../../firestore
 
-// replace github.com/burlingtonbertie99/mykeys-ext/ws/api => ../../ws/api
+replace github.com/burlingtonbertie99/mykeys-ext/ws/api => ../../ws/api
