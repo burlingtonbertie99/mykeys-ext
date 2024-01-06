@@ -10,14 +10,14 @@ require (
 	github.com/pion/logging v0.2.2
 	github.com/pion/sctp v1.7.6
 	github.com/pkg/errors v0.9.1
-	github.com/stretchr/testify v1.5.1
+	github.com/stretchr/testify v1.7.0
 	gortc.io/stun v1.22.2
 )
 
- replace github.com/burlingtonbertie99/mykeys => ../../mykeys
+replace github.com/burlingtonbertie99/mykeys => ../../mykeys
 
- replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../http/api
+replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../http/api
 
- replace github.com/burlingtonbertie99/mykeys-ext/http/client => ../http/client
+replace github.com/burlingtonbertie99/mykeys-ext/http/client => ../http/client
 
- replace github.com/burlingtonbertie99/mykeys-ext/http/server => ../http/server
+replace github.com/burlingtonbertie99/mykeys-ext/http/server => ../http/server

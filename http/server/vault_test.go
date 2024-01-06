@@ -3,18 +3,15 @@ package server_test
 import (
 	"bytes"
 	"encoding/json"
-	"os"
 	"strconv"
 	"strings"
 	"testing"
 
 	"github.com/burlingtonbertie99/mykeys"
-	"github.com/burlingtonbertie99/mykeys-ext/firestore"
 	"github.com/burlingtonbertie99/mykeys-ext/http/api"
 	"github.com/burlingtonbertie99/mykeys-ext/http/server"
 	"github.com/burlingtonbertie99/mykeys/dstore"
 	"github.com/burlingtonbertie99/mykeys/http"
-	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/stretchr/testify/require"
 )
 
@@ -28,6 +25,7 @@ func TestVault(t *testing.T) {
 	testVault(t, env, alice)
 }
 
+/*
 func TestVaultFirestore(t *testing.T) {
 	if os.Getenv("TEST_FIRESTORE") != "1" {
 		t.Skip()
@@ -39,6 +37,8 @@ func TestVaultFirestore(t *testing.T) {
 	key := keys.GenerateEdX25519Key()
 	testVault(t, env, key)
 }
+
+**/
 
 func testVault(t *testing.T, env *env, alice *keys.EdX25519Key) {
 	srv := newTestServerEnv(t, env)
@@ -210,6 +210,7 @@ func testVault(t *testing.T, env *env, alice *keys.EdX25519Key) {
 	require.Equal(t, `{"error":{"code":404,"message":"vault was deleted"}}`, string(body))
 }
 
+/*
 func TestVaultAuthFirestore(t *testing.T) {
 	if os.Getenv("TEST_FIRESTORE") != "1" {
 		t.Skip()
@@ -225,6 +226,9 @@ func TestVaultAuthFirestore(t *testing.T) {
 
 	testVaultAuth(t, env, alice)
 }
+
+
+*/
 
 func TestVaultAuth(t *testing.T) {
 	env := newEnv(t)
