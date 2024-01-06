@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/alta/protopatch v0.3.4
-	github.com/burlingtonbertie99/mykeys v0.1.22-0.20210708223433-a34d3ce96fb2
+
 	github.com/burlingtonbertie99/mykeys-ext/auth/fido2 v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/auth/mock v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/firestore v0.0.1 // indirect
