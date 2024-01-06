@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/keys-pub/keys-ext/service"
+	"github.com/burlingtonbertie99/mykeys-ext/service"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 )

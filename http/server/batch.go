@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http/httptest"
 
-	"github.com/keys-pub/keys-ext/http/api"
-	"github.com/keys-pub/keys/http"
+	"github.com/burlingtonbertie99/mykeys-ext/http/api"
+	"github.com/burlingtonbertie99/mykeys/http"
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"
 )

@@ -4,10 +4,10 @@ import (
 	"context"
 	"io"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/vault/keyring"
-	"github.com/keys-pub/keys-ext/wormhole"
-	"github.com/keys-pub/keys-ext/wormhole/sctp"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/vault/keyring"
+	"github.com/burlingtonbertie99/mykeys-ext/wormhole"
+	"github.com/burlingtonbertie99/mykeys-ext/wormhole/sctp"
 	"github.com/pkg/errors"
 )
 

@@ -14,10 +14,10 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/api"
-	"github.com/keys-pub/keys/http"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/api"
+	"github.com/burlingtonbertie99/mykeys/http"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/pkg/errors"
 )
 

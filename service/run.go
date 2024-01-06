@@ -12,20 +12,20 @@ import (
 	"runtime/debug"
 	"strconv"
 
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/fido2"
+	"github.com/burlingtonbertie99/mykeys-ext/http/client"
+	"github.com/burlingtonbertie99/mykeys-ext/vault"
+	"github.com/burlingtonbertie99/mykeys-ext/wormhole"
+	"github.com/burlingtonbertie99/mykeys-ext/wormhole/sctp"
 	middleware "github.com/grpc-ecosystem/go-grpc-middleware"
 	ctxtags "github.com/grpc-ecosystem/go-grpc-middleware/tags"
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/auth/fido2"
-	"github.com/keys-pub/keys-ext/http/client"
-	"github.com/keys-pub/keys-ext/vault"
-	"github.com/keys-pub/keys-ext/wormhole"
-	"github.com/keys-pub/keys-ext/wormhole/sctp"
-	wsclient "github.com/keys-pub/keys-ext/ws/client"
-	"github.com/keys-pub/keys/http"
-	"github.com/keys-pub/keys/saltpack"
-	"github.com/keys-pub/keys/tsutil"
-	"github.com/keys-pub/keys/user"
-	"github.com/keys-pub/keys/user/services"
+	//wsclient "github.com/burlingtonbertie99/mykeys-ext/ws/client"
+	"github.com/burlingtonbertie99/mykeys/http"
+	"github.com/burlingtonbertie99/mykeys/saltpack"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
+	"github.com/burlingtonbertie99/mykeys/user"
+	"github.com/burlingtonbertie99/mykeys/user/services"
 	"github.com/mercari/go-grpc-interceptor/panichandler"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
@@ -99,7 +99,9 @@ func Run(build Build) {
 	services.SetLogger(newPackageLogger(lg, "keys/user/services"))
 	vault.SetLogger(newPackageLogger(lg, "keys-ext/vault"))
 	wormhole.SetLogger(newPackageLogger(lg, "keys-ext/wormhole"))
-	wsclient.SetLogger(newPackageLogger(lg, "keys-ext/ws/client"))
+	//wsclient.SetLogger(newPackageLogger(lg, "keys-ext/ws/client"))
+
+	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
 
 	logger.Debugf("Running %v", os.Args)
 

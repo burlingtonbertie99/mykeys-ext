@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/keys-pub/keys/dstore"
+	"github.com/burlingtonbertie99/mykeys/dstore"
 	"github.com/stretchr/testify/require"
 )
 

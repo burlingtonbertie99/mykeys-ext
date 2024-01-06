@@ -4,9 +4,9 @@ import (
 	"strings"
 
 	"cloud.google.com/go/firestore"
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/dstore/events"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/dstore/events"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"google.golang.org/api/iterator"
 )
 

@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/keys-pub/keys-ext/vault"
-	"github.com/keys-pub/keys/encoding"
+	"github.com/burlingtonbertie99/mykeys-ext/vault"
+	"github.com/burlingtonbertie99/mykeys/encoding"
 	"github.com/pkg/errors"
 )
 

@@ -6,7 +6,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/golang/protobuf v1.4.3 // indirect
 	github.com/golang/snappy v0.0.2 // indirect
-	github.com/keys-pub/keys v0.1.18-0.20201117233052-2bfb5f4d6161
+	github.com/burlingtonbertie99/mykeys v0.1.18-0.20201117233052-2bfb5f4d6161
 	github.com/minio/sio v0.2.1
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.5.1
@@ -21,4 +21,4 @@ require (
 	google.golang.org/protobuf v1.25.0 // indirect
 )
 
-// replace github.com/keys-pub/keys => ../../keys
+// replace github.com/burlingtonbertie99/mykeys => ../../keys

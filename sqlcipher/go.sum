@@ -44,10 +44,10 @@ github.com/keybase/go-keychain v0.0.0-20200502122510-cda31fe0c86d/go.mod h1:W6Eb
 github.com/keybase/go.dbus v0.0.0-20200324223359-a94be52c0b03/go.mod h1:a8clEhrrGV/d76/f9r2I41BwANMihfZYV9C223vaxqE=
 github.com/keybase/saltpack v0.0.0-20200430135328-e19b1910c0c5 h1:X6nYzCVURqxDv0GuyptaCcRFTXPM0rSGNUrTeQ2NKUQ=
 github.com/keybase/saltpack v0.0.0-20200430135328-e19b1910c0c5/go.mod h1:FNSq71OhXv/Z1W9M37nnHxJVhXitc03z6qshCbAten8=
-github.com/keys-pub/keys v0.1.20 h1:qBf1HpT7tionv7s7sapqUPEvWS6AvJAQVgiQjfjSBtQ=
-github.com/keys-pub/keys v0.1.20/go.mod h1:h7u4e6MHcP9wdIlOhqFOJWrGZgk65KnSfaN5iioL2OI=
-github.com/keys-pub/keys v0.1.21-0.20210307171818-9d3d28f15da1 h1:iu1f5rVno2/pWpvLqsWulinPT5Zo47lJ3HDbzFnRTiU=
-github.com/keys-pub/keys v0.1.21-0.20210307171818-9d3d28f15da1/go.mod h1:h7u4e6MHcP9wdIlOhqFOJWrGZgk65KnSfaN5iioL2OI=
+github.com/burlingtonbertie99/mykeys v0.1.20 h1:qBf1HpT7tionv7s7sapqUPEvWS6AvJAQVgiQjfjSBtQ=
+github.com/burlingtonbertie99/mykeys v0.1.20/go.mod h1:h7u4e6MHcP9wdIlOhqFOJWrGZgk65KnSfaN5iioL2OI=
+github.com/burlingtonbertie99/mykeys v0.1.21-0.20210307171818-9d3d28f15da1 h1:iu1f5rVno2/pWpvLqsWulinPT5Zo47lJ3HDbzFnRTiU=
+github.com/burlingtonbertie99/mykeys v0.1.21-0.20210307171818-9d3d28f15da1/go.mod h1:h7u4e6MHcP9wdIlOhqFOJWrGZgk65KnSfaN5iioL2OI=
 github.com/keys-pub/secretservice v0.0.0-20200519003656-26e44b8df47f/go.mod h1:YRHMiVbZqh7u8xRm77CvwJNAZdDlNXwWvQ4DK0N9mYg=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=

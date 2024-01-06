@@ -4,9 +4,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/encoding"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/encoding"
 	"github.com/pkg/errors"
 	"github.com/vmihailenco/msgpack/v4"
 )

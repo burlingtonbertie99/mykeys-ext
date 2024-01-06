@@ -3,8 +3,8 @@ package vault
 import (
 	"strings"
 
-	"github.com/keys-pub/keys-ext/http/api"
-	"github.com/keys-pub/keys/dstore"
+	"github.com/burlingtonbertie99/mykeys-ext/http/api"
+	"github.com/burlingtonbertie99/mykeys/dstore"
 	"github.com/vmihailenco/msgpack/v4"
 )
 

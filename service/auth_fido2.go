@@ -5,10 +5,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/auth/fido2"
-	"github.com/keys-pub/keys-ext/vault"
-	"github.com/keys-pub/keys/encoding"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/fido2"
+	"github.com/burlingtonbertie99/mykeys-ext/vault"
+	"github.com/burlingtonbertie99/mykeys/encoding"
 	"github.com/pkg/errors"
 )
 

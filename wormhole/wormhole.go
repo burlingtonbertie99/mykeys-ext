@@ -6,14 +6,14 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/api"
-	"github.com/keys-pub/keys-ext/http/client"
-	httpclient "github.com/keys-pub/keys-ext/http/client"
-	"github.com/keys-pub/keys-ext/wormhole/sctp"
-	"github.com/keys-pub/keys/encoding"
-	"github.com/keys-pub/keys/noise"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/api"
+	"github.com/burlingtonbertie99/mykeys-ext/http/client"
+	httpclient "github.com/burlingtonbertie99/mykeys-ext/http/client"
+	"github.com/burlingtonbertie99/mykeys-ext/wormhole/sctp"
+	"github.com/burlingtonbertie99/mykeys/encoding"
+	"github.com/burlingtonbertie99/mykeys/noise"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/pkg/errors"
 )
 

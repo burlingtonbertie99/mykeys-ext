@@ -5,10 +5,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/api"
-	"github.com/keys-pub/keys/user"
-	"github.com/keys-pub/keys/users"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/api"
+	"github.com/burlingtonbertie99/mykeys/user"
+	"github.com/burlingtonbertie99/mykeys/users"
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"
 )

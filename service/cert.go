@@ -5,7 +5,7 @@ import (
 	"os"
 	"unicode/utf8"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 	"github.com/pkg/errors"
 )
 

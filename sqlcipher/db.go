@@ -5,8 +5,8 @@ import (
 	"database/sql"
 	"sync"
 
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/pkg/errors"
 	// For sqlite3 driver
 )

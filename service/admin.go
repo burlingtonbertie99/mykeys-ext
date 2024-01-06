@@ -3,9 +3,8 @@ package service
 import (
 	"context"
 	"fmt"
+	"github.com/burlingtonbertie99/mykeys/http"
 	"time"
-
-	"github.com/keys-pub/keys/http"
 )
 
 // AdminSignURL ...

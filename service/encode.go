@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/keys-pub/keys/encoding"
+	"github.com/burlingtonbertie99/mykeys/encoding"
 	"github.com/pkg/errors"
 )
 

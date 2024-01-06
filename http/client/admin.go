@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/url"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 )
 
 // AdminCheck performs user & sigchain associated with key by an admin.

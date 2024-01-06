@@ -58,10 +58,10 @@ github.com/keybase/go-keychain v0.0.0-20200502122510-cda31fe0c86d/go.mod h1:W6Eb
 github.com/keybase/go.dbus v0.0.0-20200324223359-a94be52c0b03/go.mod h1:a8clEhrrGV/d76/f9r2I41BwANMihfZYV9C223vaxqE=
 github.com/keybase/saltpack v0.0.0-20200430135328-e19b1910c0c5 h1:X6nYzCVURqxDv0GuyptaCcRFTXPM0rSGNUrTeQ2NKUQ=
 github.com/keybase/saltpack v0.0.0-20200430135328-e19b1910c0c5/go.mod h1:FNSq71OhXv/Z1W9M37nnHxJVhXitc03z6qshCbAten8=
-github.com/keys-pub/keys v0.1.17 h1:McZ4AswOHLEAkFibJmsZuka7QF4Igig4rwolkQYpwic=
-github.com/keys-pub/keys v0.1.17/go.mod h1:fp0YtOeEUxacxWJHipDOiPJygETVbNRkrKvnF82O2CM=
-github.com/keys-pub/keys-ext/auth/fido2 v0.0.0-20210331211138-7be3b751d8ad h1:ta9ztpBoDkngFMdaxVDKcb+DzK62JdfVk5unbjwIcIc=
-github.com/keys-pub/keys-ext/auth/fido2 v0.0.0-20210331211138-7be3b751d8ad/go.mod h1:gYlaSTxabOCy6S3/uKVlMx36KzwEs6D0bFy5wjwj4K4=
+github.com/burlingtonbertie99/mykeys v0.1.17 h1:McZ4AswOHLEAkFibJmsZuka7QF4Igig4rwolkQYpwic=
+github.com/burlingtonbertie99/mykeys v0.1.17/go.mod h1:fp0YtOeEUxacxWJHipDOiPJygETVbNRkrKvnF82O2CM=
+github.com/burlingtonbertie99/mykeys-ext/auth/fido2 v0.0.0-20210331211138-7be3b751d8ad h1:ta9ztpBoDkngFMdaxVDKcb+DzK62JdfVk5unbjwIcIc=
+github.com/burlingtonbertie99/mykeys-ext/auth/fido2 v0.0.0-20210331211138-7be3b751d8ad/go.mod h1:gYlaSTxabOCy6S3/uKVlMx36KzwEs6D0bFy5wjwj4K4=
 github.com/keys-pub/secretservice v0.0.0-20200519003656-26e44b8df47f/go.mod h1:YRHMiVbZqh7u8xRm77CvwJNAZdDlNXwWvQ4DK0N9mYg=
 github.com/kr/fs v0.1.0/go.mod h1:FFnZGqtBN9Gxj7eW1uZ42v5BccTP0vu6NEaFoC2HwRg=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=

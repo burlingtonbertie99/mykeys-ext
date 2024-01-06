@@ -6,8 +6,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/dstore/events"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/dstore/events"
 	"github.com/stretchr/testify/require"
 )
 

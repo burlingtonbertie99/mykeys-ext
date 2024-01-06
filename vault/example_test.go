@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/keys-pub/keys-ext/vault"
+	"github.com/burlingtonbertie99/mykeys-ext/vault"
 )
 
 func ExampleNew() {

@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/api"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/api"
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"
 )

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"
 )

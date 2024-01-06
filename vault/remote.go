@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 	"github.com/pkg/errors"
 )
 

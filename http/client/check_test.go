@@ -5,8 +5,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/server"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/server"
 	"github.com/stretchr/testify/require"
 )
 

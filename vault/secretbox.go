@@ -1,7 +1,7 @@
 package vault
 
 import (
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 	"golang.org/x/crypto/nacl/secretbox"
 )
 

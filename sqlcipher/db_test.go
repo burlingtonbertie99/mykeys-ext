@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/sqlcipher"
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/sqlcipher"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/stretchr/testify/require"
 )
 

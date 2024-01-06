@@ -6,9 +6,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/vault/keyring"
-	"github.com/keys-pub/keys/saltpack"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/vault/keyring"
+	"github.com/burlingtonbertie99/mykeys/saltpack"
 	"github.com/pkg/errors"
 	"google.golang.org/grpc"
 )

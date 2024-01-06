@@ -6,7 +6,7 @@ import (
 	"sync"
 
 	"github.com/keys-pub/go-libfido2"
-	"github.com/keys-pub/keys-ext/auth/fido2"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/fido2"
 	"github.com/pkg/errors"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

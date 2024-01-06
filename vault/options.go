@@ -1,7 +1,7 @@
 package vault
 
 import (
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 )
 
 // Options for Vault.

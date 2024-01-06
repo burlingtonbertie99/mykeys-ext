@@ -9,10 +9,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/api"
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/api"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"
 )

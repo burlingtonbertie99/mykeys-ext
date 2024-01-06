@@ -149,8 +149,8 @@ github.com/keybase/go-keychain v0.0.0-20201121013009-976c83ec27a6/go.mod h1:N83i
 github.com/keybase/go.dbus v0.0.0-20200324223359-a94be52c0b03/go.mod h1:a8clEhrrGV/d76/f9r2I41BwANMihfZYV9C223vaxqE=
 github.com/keybase/saltpack v0.0.0-20200430135328-e19b1910c0c5 h1:X6nYzCVURqxDv0GuyptaCcRFTXPM0rSGNUrTeQ2NKUQ=
 github.com/keybase/saltpack v0.0.0-20200430135328-e19b1910c0c5/go.mod h1:FNSq71OhXv/Z1W9M37nnHxJVhXitc03z6qshCbAten8=
-github.com/keys-pub/keys v0.1.22-0.20210523195800-d583c5244ce9 h1:o/VAKEmD06SZy1ObhLffH9OMtKva4mHVdQMYjcuy4Gg=
-github.com/keys-pub/keys v0.1.22-0.20210523195800-d583c5244ce9/go.mod h1:+41yREqLkYyGfGf4OkhUn/ljwe/+kwhrlTq1/46Jj8c=
+github.com/burlingtonbertie99/mykeys v0.1.22-0.20210523195800-d583c5244ce9 h1:o/VAKEmD06SZy1ObhLffH9OMtKva4mHVdQMYjcuy4Gg=
+github.com/burlingtonbertie99/mykeys v0.1.22-0.20210523195800-d583c5244ce9/go.mod h1:+41yREqLkYyGfGf4OkhUn/ljwe/+kwhrlTq1/46Jj8c=
 github.com/keys-pub/secretservice v0.0.0-20200519003656-26e44b8df47f/go.mod h1:YRHMiVbZqh7u8xRm77CvwJNAZdDlNXwWvQ4DK0N9mYg=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=

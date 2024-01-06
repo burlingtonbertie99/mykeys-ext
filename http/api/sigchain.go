@@ -1,6 +1,6 @@
 package api
 
-import "github.com/keys-pub/keys"
+import "github.com/burlingtonbertie99/mykeys"
 
 // SigchainResponse is the response format for a Sigchain request.
 type SigchainResponse struct {

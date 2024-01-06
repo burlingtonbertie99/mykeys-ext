@@ -3,7 +3,7 @@ package service
 import (
 	"bytes"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 )
 
 var alice = keys.NewEdX25519KeyFromSeed(keys.Bytes32(bytes.Repeat([]byte{0x01}, 32)))

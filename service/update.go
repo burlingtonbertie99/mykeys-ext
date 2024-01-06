@@ -3,11 +3,11 @@ package service
 import (
 	"context"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/vault/keyring"
-	"github.com/keys-pub/keys/user"
-	"github.com/keys-pub/keys/user/services"
-	"github.com/keys-pub/keys/users"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/vault/keyring"
+	"github.com/burlingtonbertie99/mykeys/user"
+	"github.com/burlingtonbertie99/mykeys/user/services"
+	"github.com/burlingtonbertie99/mykeys/users"
 	"github.com/pkg/errors"
 )
 

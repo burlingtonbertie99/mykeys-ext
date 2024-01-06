@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/keys-pub/keys/env"
+	"github.com/burlingtonbertie99/mykeys/env"
 	"github.com/pkg/errors"
 )
 

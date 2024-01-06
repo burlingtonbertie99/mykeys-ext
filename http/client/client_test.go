@@ -4,13 +4,13 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/client"
-	"github.com/keys-pub/keys-ext/http/server"
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/http"
-	"github.com/keys-pub/keys/tsutil"
-	"github.com/keys-pub/keys/users"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/client"
+	"github.com/burlingtonbertie99/mykeys-ext/http/server"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/http"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
+	"github.com/burlingtonbertie99/mykeys/users"
 	"github.com/stretchr/testify/require"
 )
 

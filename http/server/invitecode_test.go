@@ -7,10 +7,10 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/api"
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/http"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/api"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/http"
 	"github.com/stretchr/testify/require"
 )
 

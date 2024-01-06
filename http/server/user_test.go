@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 	"github.com/stretchr/testify/require"
 )
 

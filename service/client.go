@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/keys-pub/keys-ext/auth/fido2"
-	"github.com/keys-pub/keys/dstore"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/fido2"
+	"github.com/burlingtonbertie99/mykeys/dstore"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"

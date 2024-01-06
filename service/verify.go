@@ -4,7 +4,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/keys-pub/keys/saltpack"
+	"github.com/burlingtonbertie99/mykeys/saltpack"
 	"github.com/pkg/errors"
 	"google.golang.org/grpc"
 )

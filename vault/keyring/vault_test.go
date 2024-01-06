@@ -7,10 +7,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/vault"
-	"github.com/keys-pub/keys/encoding"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/vault"
+	"github.com/burlingtonbertie99/mykeys/encoding"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/stretchr/testify/require"
 )
 

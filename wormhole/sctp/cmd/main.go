@@ -8,10 +8,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/client"
-	httpclient "github.com/keys-pub/keys-ext/http/client"
-	"github.com/keys-pub/keys-ext/wormhole/sctp"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/client"
+	httpclient "github.com/burlingtonbertie99/mykeys-ext/http/client"
+	"github.com/burlingtonbertie99/mykeys-ext/wormhole/sctp"
 )
 
 func main() {

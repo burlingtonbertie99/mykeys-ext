@@ -3,7 +3,7 @@ package server_test
 import (
 	"testing"
 
-	"github.com/keys-pub/keys-ext/firestore"
+	"github.com/burlingtonbertie99/mykeys-ext/firestore"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/api/option"
 )

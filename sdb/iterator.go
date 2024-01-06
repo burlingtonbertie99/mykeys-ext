@@ -1,7 +1,7 @@
 package sdb
 
 import (
-	"github.com/keys-pub/keys/dstore"
+	"github.com/burlingtonbertie99/mykeys/dstore"
 	"github.com/pkg/errors"
 	"github.com/syndtr/goleveldb/leveldb/iterator"
 )

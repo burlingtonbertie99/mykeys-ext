@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 	"github.com/urfave/cli"
 )
 

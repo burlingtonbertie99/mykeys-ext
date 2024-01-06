@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 
-	"github.com/keys-pub/keys/dstore"
+	"github.com/burlingtonbertie99/mykeys/dstore"
 )
 
 func (s *service) ConfigGet(ctx context.Context, req *ConfigGetRequest) (*ConfigGetResponse, error) {

@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/http"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/http"
 	"github.com/stretchr/testify/require"
 )
 

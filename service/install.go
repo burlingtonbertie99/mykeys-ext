@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"strings"
 
-	kenv "github.com/keys-pub/keys/env"
+	kenv "github.com/burlingtonbertie99/mykeys/env"
 	"github.com/pkg/errors"
 )
 

@@ -5,13 +5,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/client"
-	"github.com/keys-pub/keys-ext/sdb"
-	"github.com/keys-pub/keys-ext/vault"
-	khttp "github.com/keys-pub/keys/http"
-	"github.com/keys-pub/keys/tsutil"
-	"github.com/keys-pub/keys/users"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/client"
+	"github.com/burlingtonbertie99/mykeys-ext/sdb"
+	"github.com/burlingtonbertie99/mykeys-ext/vault"
+	khttp "github.com/burlingtonbertie99/mykeys/http"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
+	"github.com/burlingtonbertie99/mykeys/users"
 )
 
 type service struct {
@@ -93,8 +93,9 @@ func (s *service) Close() {
 }
 
 // TODO: unlock can be called multiple times, while already unlocked (by
-//       different clients to get an auth token), we could be more explicit
-//       about this.
+//
+//	different clients to get an auth token), we could be more explicit
+//	about this.
 func (s *service) unlock(ctx context.Context, req *AuthUnlockRequest) (string, error) {
 	s.unlockMtx.Lock()
 	defer s.unlockMtx.Unlock()

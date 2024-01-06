@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 )
 
 func (v *Vault) setValue(key string, value []byte) error {

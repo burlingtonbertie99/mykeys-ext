@@ -1,8 +1,8 @@
 package vault
 
 import (
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/dstore"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/dstore"
 	"github.com/pkg/errors"
 )
 

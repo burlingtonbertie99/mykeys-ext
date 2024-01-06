@@ -3,8 +3,8 @@ package vault
 import (
 	"testing"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/encoding"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/encoding"
 	"github.com/stretchr/testify/require"
 )
 

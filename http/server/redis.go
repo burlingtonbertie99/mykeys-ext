@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 )
 
 // Redis defines interface for a distributed key value store.

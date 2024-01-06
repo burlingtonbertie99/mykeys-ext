@@ -7,8 +7,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/keys-pub/keys-ext/auth/fido2"
-	"github.com/keys-pub/keys-ext/auth/rpc"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/fido2"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/rpc"
 	"github.com/stretchr/testify/require"
 )
 

@@ -7,7 +7,7 @@ require (
 	cloud.google.com/go/firestore v1.5.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/keys-pub/keys v0.1.22-0.20210523195800-d583c5244ce9
+	github.com/burlingtonbertie99/mykeys v0.1.22-0.20210523195800-d583c5244ce9
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/mod v0.4.2 // indirect
@@ -18,4 +18,4 @@ require (
 	google.golang.org/grpc v1.36.1
 )
 
-// replace github.com/keys-pub/keys => ../../keys
+// replace github.com/burlingtonbertie99/mykeys => ../../keys

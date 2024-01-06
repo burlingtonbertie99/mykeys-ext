@@ -6,8 +6,8 @@ import (
 	"net/http/httptest"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/user"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/user"
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"
 )

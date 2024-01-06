@@ -3,7 +3,7 @@ package vault
 import (
 	"strings"
 
-	"github.com/keys-pub/keys/dstore"
+	"github.com/burlingtonbertie99/mykeys/dstore"
 )
 
 // Entry in Store.

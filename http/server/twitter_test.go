@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/keys-pub/keys/http"
+	"github.com/burlingtonbertie99/mykeys/http"
 	"github.com/stretchr/testify/require"
 )
 

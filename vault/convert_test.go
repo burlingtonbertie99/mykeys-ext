@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/vault"
-	vkeyring "github.com/keys-pub/keys-ext/vault/keyring"
-	"github.com/keys-pub/keys-ext/vault/secrets"
-	"github.com/keys-pub/keys/encoding"
-	"github.com/keys-pub/keys/keyring"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/vault"
+	vkeyring "github.com/burlingtonbertie99/mykeys-ext/vault/keyring"
+	"github.com/burlingtonbertie99/mykeys-ext/vault/secrets"
+	"github.com/burlingtonbertie99/mykeys/encoding"
+	"github.com/burlingtonbertie99/mykeys/keyring"
 	"github.com/stretchr/testify/require"
 	"github.com/vmihailenco/msgpack/v4"
 )

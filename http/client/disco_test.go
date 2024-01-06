@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/http/client"
-	"github.com/keys-pub/keys-ext/http/server"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/http/client"
+	"github.com/burlingtonbertie99/mykeys-ext/http/server"
 	"github.com/stretchr/testify/require"
 )
 

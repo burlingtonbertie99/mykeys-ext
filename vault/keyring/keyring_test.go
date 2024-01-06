@@ -4,11 +4,11 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/keys-pub/keys-ext/vault"
-	"github.com/keys-pub/keys-ext/vault/keyring"
+	"github.com/burlingtonbertie99/mykeys-ext/vault"
+	"github.com/burlingtonbertie99/mykeys-ext/vault/keyring"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/api"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/api"
 	"github.com/stretchr/testify/require"
 )
 

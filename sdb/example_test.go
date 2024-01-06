@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/sdb"
-	"github.com/keys-pub/keys/dstore"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/sdb"
+	"github.com/burlingtonbertie99/mykeys/dstore"
 )
 
 func ExampleNew() {

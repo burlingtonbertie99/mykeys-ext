@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	kenv "github.com/keys-pub/keys/env"
+	kenv "github.com/burlingtonbertie99/mykeys/env"
 	"github.com/stretchr/testify/require"
 )
 

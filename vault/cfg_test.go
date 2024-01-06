@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/stretchr/testify/require"
 )
 

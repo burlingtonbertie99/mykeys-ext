@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/keys-pub/keys-ext/auth/rpc"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/rpc"
 )
 
 // FIDO2Server exported for plugin.

@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/golang/protobuf v1.4.3 // indirect
-	github.com/keys-pub/keys v0.1.21-0.20210307171818-9d3d28f15da1
+	github.com/burlingtonbertie99/mykeys v0.1.21-0.20210307171818-9d3d28f15da1
 	github.com/mutecomm/go-sqlcipher/v4 v4.4.2
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
@@ -21,4 +21,4 @@ require (
 	google.golang.org/protobuf v1.25.0 // indirect
 )
 
-// replace github.com/keys-pub/keys => ../../keys
+// replace github.com/burlingtonbertie99/mykeys => ../../keys

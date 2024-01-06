@@ -3,10 +3,10 @@ package keyring
 import (
 	"bytes"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/vault"
-	"github.com/keys-pub/keys/api"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/vault"
+	"github.com/burlingtonbertie99/mykeys/api"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/pkg/errors"
 	"github.com/vmihailenco/msgpack/v4"
 )

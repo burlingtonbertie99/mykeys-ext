@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 	"github.com/labstack/echo/v4"
 )
 

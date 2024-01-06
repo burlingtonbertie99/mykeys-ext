@@ -3,7 +3,7 @@ package secrets_test
 import (
 	"testing"
 
-	"github.com/keys-pub/keys-ext/vault/secrets"
+	"github.com/burlingtonbertie99/mykeys-ext/vault/secrets"
 	"github.com/stretchr/testify/require"
 )
 

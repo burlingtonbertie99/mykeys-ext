@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/keys-pub/keys/dstore"
+	"github.com/burlingtonbertie99/mykeys/dstore"
 	sqlite3 "github.com/mutecomm/go-sqlcipher/v4"
 	"github.com/pkg/errors"
 	"github.com/vmihailenco/msgpack"

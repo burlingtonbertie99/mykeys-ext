@@ -1,6 +1,6 @@
 package wormhole
 
-import "github.com/keys-pub/keys"
+import "github.com/burlingtonbertie99/mykeys"
 
 // MessageType describes wormhole message.
 type MessageType string

@@ -3,8 +3,8 @@ package server
 import (
 	"net/http"
 
-	"github.com/keys-pub/keys-ext/http/api"
-	"github.com/keys-pub/keys/dstore/events"
+	"github.com/burlingtonbertie99/mykeys-ext/http/api"
+	"github.com/burlingtonbertie99/mykeys/dstore/events"
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"
 )

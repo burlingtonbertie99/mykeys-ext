@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"context"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/vault/keyring"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/vault/keyring"
 	"github.com/pkg/errors"
 )
 

@@ -1,9 +1,9 @@
 package api
 
 import (
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/user"
-	"github.com/keys-pub/keys/users"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/user"
+	"github.com/burlingtonbertie99/mykeys/users"
 )
 
 // UserFromSearchResult returns User from user.SearchResult.

@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/keys-pub/keys-ext/auth/fido2"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/fido2"
 	"github.com/pkg/errors"
 )
 

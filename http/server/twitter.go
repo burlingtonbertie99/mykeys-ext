@@ -1,10 +1,10 @@
 package server
 
 import (
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/http"
-	"github.com/keys-pub/keys/user"
-	"github.com/keys-pub/keys/user/services"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/http"
+	"github.com/burlingtonbertie99/mykeys/user"
+	"github.com/burlingtonbertie99/mykeys/user/services"
 	"github.com/labstack/echo/v4"
 	"github.com/pkg/errors"
 )

@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/http"
-	"github.com/keys-pub/keys/saltpack"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/http"
+	"github.com/burlingtonbertie99/mykeys/saltpack"
 	"github.com/stretchr/testify/require"
 )
 

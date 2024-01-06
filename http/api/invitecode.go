@@ -1,6 +1,6 @@
 package api
 
-import "github.com/keys-pub/keys"
+import "github.com/burlingtonbertie99/mykeys"
 
 // InviteCodeCreateResponse ...
 type InviteCodeCreateResponse struct {

@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys/encoding"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys/encoding"
 )
 
 // Rand (RPC) ...

@@ -4,9 +4,9 @@ import (
 	"context"
 	"strings"
 
-	"github.com/keys-pub/keys"
-	"github.com/keys-pub/keys-ext/vault/secrets"
-	"github.com/keys-pub/keys/tsutil"
+	"github.com/burlingtonbertie99/mykeys"
+	"github.com/burlingtonbertie99/mykeys-ext/vault/secrets"
+	"github.com/burlingtonbertie99/mykeys/tsutil"
 	"github.com/pkg/errors"
 )
 

@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/url"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 )
 
 // Check user & sigchain associated with edx25519 key.

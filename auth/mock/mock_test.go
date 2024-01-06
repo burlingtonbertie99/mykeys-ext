@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/keys-pub/keys-ext/auth/fido2"
-	"github.com/keys-pub/keys-ext/auth/mock"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/fido2"
+	"github.com/burlingtonbertie99/mykeys-ext/auth/mock"
 	"github.com/stretchr/testify/require"
 )
 

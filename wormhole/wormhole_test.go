@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/keys-pub/keys"
+	"github.com/burlingtonbertie99/mykeys"
 
-	"github.com/keys-pub/keys-ext/wormhole"
-	"github.com/keys-pub/keys-ext/wormhole/sctp"
+	"github.com/burlingtonbertie99/mykeys-ext/wormhole"
+	"github.com/burlingtonbertie99/mykeys-ext/wormhole/sctp"
 	"github.com/stretchr/testify/require"
 )
 

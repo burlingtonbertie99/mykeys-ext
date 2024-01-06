@@ -3,8 +3,8 @@ package vault
 import (
 	"strings"
 
-	"github.com/keys-pub/keys/dstore"
-	"github.com/keys-pub/keys/keyring"
+	"github.com/burlingtonbertie99/mykeys/dstore"
+	"github.com/burlingtonbertie99/mykeys/keyring"
 	"github.com/pkg/errors"
 	"github.com/vmihailenco/msgpack/v4"
 )
