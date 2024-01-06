@@ -7,7 +7,7 @@ require (
 	github.com/burlingtonbertie99/mykeys v0.1.22-0.20210708223433-a34d3ce96fb2
 	github.com/burlingtonbertie99/mykeys-ext/auth/fido2 v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/auth/mock v0.0.1
-	github.com/burlingtonbertie99/mykeys-ext/firestore v0.0.1
+	github.com/burlingtonbertie99/mykeys-ext/firestore v0.0.1 // indirect
 	github.com/burlingtonbertie99/mykeys-ext/http/api v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/client v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/server v0.0.1
@@ -19,6 +19,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
+	github.com/keys-pub/keys v0.1.22 // indirect
 	github.com/mercari/go-grpc-interceptor v0.0.0-20180110035004-b8ad3827e82a
 	github.com/minio/sio v0.3.0 // indirect
 	github.com/mitchellh/go-ps v1.0.0
@@ -35,7 +36,7 @@ require (
 	gortc.io/stun v1.23.0 // indirect
 )
 
-replace github.com/burlingtonbertie99/mykeys => ../../mykeys
+//replace github.com/burlingtonbertie99/mykeys => ../../mykeys
 
 replace github.com/burlingtonbertie99/mykeys-ext/sdb => ../sdb
 
@@ -58,3 +59,29 @@ replace github.com/burlingtonbertie99/mykeys-ext/firestore => ../firestore
 replace github.com/burlingtonbertie99/mykeys-ext/ws/api => ../ws/api
 
 replace github.com/burlingtonbertie99/mykeys-ext/ws/client => ../ws/client
+
+
+replace github.com/keys-pub/keys => ../../mykeys
+
+replace github.com/keys-pub/keys-ext/sdb => ../sdb
+
+replace github.com/keys-pub/keys-ext/auth/fido2 => ../auth/fido2
+
+replace github.com/keys-pub/keys-ext/auth/mock => ../auth/mock
+
+replace github.com/keys-pub/keys-ext/http/api => ../http/api
+
+replace github.com/keys-pub/keys-ext/http/client => ../http/client
+
+replace github.com/keys-pub/keys-ext/http/server => ../http/server
+
+replace github.com/keys-pub/keys-ext/vault => ../vault
+
+replace github.com/keys-pub/keys-ext/wormhole => ../wormhole
+
+replace github.com/keys-pub/keys-ext/firestore => ../firestore
+
+replace github.com/keys-pub/keys-ext/ws/api => ../ws/api
+
+replace github.com/keys-pub/keys-ext/ws/client => ../ws/client
+

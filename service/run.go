@@ -101,8 +101,6 @@ func Run(build Build) {
 	wormhole.SetLogger(newPackageLogger(lg, "keys-ext/wormhole"))
 	//wsclient.SetLogger(newPackageLogger(lg, "keys-ext/ws/client"))
 
-	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
-
 	logger.Debugf("Running %v", os.Args)
 
 	if err := checkSupportedOS(); err != nil {
