@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/alta/protopatch v0.3.4
-
+	github.com/burlingtonbertie99/mykeys v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/auth/fido2 v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/auth/mock v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/firestore v0.0.1 // indirect
@@ -19,7 +19,6 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
-	github.com/keys-pub/keys v0.1.22 // indirect
 	github.com/mercari/go-grpc-interceptor v0.0.0-20180110035004-b8ad3827e82a
 	github.com/minio/sio v0.3.0 // indirect
 	github.com/mitchellh/go-ps v1.0.0
@@ -60,7 +59,6 @@ replace github.com/burlingtonbertie99/mykeys-ext/ws/api => ../ws/api
 
 replace github.com/burlingtonbertie99/mykeys-ext/ws/client => ../ws/client
 
-
 //replace github.com/keys-pub/keys => ../../mykeys
 
 replace github.com/keys-pub/keys-ext/sdb => ../sdb
@@ -84,4 +82,3 @@ replace github.com/keys-pub/keys-ext/firestore => ../firestore
 replace github.com/keys-pub/keys-ext/ws/api => ../ws/api
 
 replace github.com/keys-pub/keys-ext/ws/client => ../ws/client
-
