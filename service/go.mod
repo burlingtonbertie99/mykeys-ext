@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/alta/protopatch v0.3.4
-	github.com/burlingtonbertie99/mykeys v0.0.2
+	github.com/burlingtonbertie99/mykeys v0.0.4
 	github.com/burlingtonbertie99/mykeys-ext/auth/fido2 v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/auth/mock v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/api v0.0.1
@@ -34,7 +34,7 @@ require (
 	gortc.io/stun v1.23.0 // indirect
 )
 
-//replace github.com/burlingtonbertie99/mykeys => ../../mykeys
+replace github.com/burlingtonbertie99/mykeys => ../../mykeys
 
 replace github.com/burlingtonbertie99/mykeys-ext/sdb => ../sdb
 

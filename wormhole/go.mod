@@ -3,7 +3,7 @@ module github.com/burlingtonbertie99/mykeys-ext/wormhole
 go 1.14
 
 require (
-	github.com/burlingtonbertie99/mykeys v0.0.2
+	github.com/burlingtonbertie99/mykeys v0.0.4
 	github.com/burlingtonbertie99/mykeys-ext/http/api v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/client v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/server v0.0.1
@@ -14,7 +14,7 @@ require (
 	gortc.io/stun v1.22.2
 )
 
-//replace github.com/burlingtonbertie99/mykeys => ../../mykeys
+replace github.com/burlingtonbertie99/mykeys => ../../mykeys
 
 replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../http/api
 

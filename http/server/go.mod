@@ -3,7 +3,7 @@ module github.com/burlingtonbertie99/mykeys-ext/http/server
 go 1.14
 
 require (
-	github.com/burlingtonbertie99/mykeys v0.0.2
+	github.com/burlingtonbertie99/mykeys v0.0.4
 	github.com/burlingtonbertie99/mykeys-ext/http/api v0.0.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
@@ -19,7 +19,7 @@ require (
 	golang.org/x/text v0.3.5 // indirect
 )
 
-//replace github.com/burlingtonbertie99/mykeys => ../../../mykeys
+replace github.com/burlingtonbertie99/mykeys => ../../../mykeys
 
 replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../api
 

@@ -3,7 +3,7 @@ module github.com/burlingtonbertie99/mykeys-ext/http/client
 go 1.14
 
 require (
-	github.com/burlingtonbertie99/mykeys v0.0.2
+	github.com/burlingtonbertie99/mykeys v0.0.4
 	github.com/burlingtonbertie99/mykeys-ext/http/api v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/server v0.0.1
 	github.com/pkg/errors v0.9.1
@@ -11,7 +11,7 @@ require (
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
 )
 
-//replace github.com/burlingtonbertie99/mykeys => ../../../mykeys
+replace github.com/burlingtonbertie99/mykeys => ../../../mykeys
 
 replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../api
 

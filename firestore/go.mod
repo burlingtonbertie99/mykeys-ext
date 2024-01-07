@@ -5,7 +5,7 @@ go 1.12
 require (
 	cloud.google.com/go v0.80.0 // indirect
 	cloud.google.com/go/firestore v1.5.0
-	github.com/burlingtonbertie99/mykeys v0.0.2
+	github.com/burlingtonbertie99/mykeys v0.0.4
 	github.com/davecgh/go-spew v1.1.1
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/pkg/errors v0.9.1
@@ -17,4 +17,4 @@ require (
 	google.golang.org/grpc v1.36.1
 )
 
-//replace github.com/burlingtonbertie99/mykeys => ../../mykeys
+replace github.com/burlingtonbertie99/mykeys => ../../mykeys

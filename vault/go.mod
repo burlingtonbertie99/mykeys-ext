@@ -3,7 +3,7 @@ module github.com/burlingtonbertie99/mykeys-ext/vault
 go 1.14
 
 require (
-	github.com/burlingtonbertie99/mykeys v0.0.2
+	github.com/burlingtonbertie99/mykeys v0.0.4
 	github.com/burlingtonbertie99/mykeys-ext/http/api v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/client v0.0.1
 	github.com/burlingtonbertie99/mykeys-ext/http/server v0.0.1
@@ -16,7 +16,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
 )
 
-//replace github.com/burlingtonbertie99/mykeys => ../../mykeys
+replace github.com/burlingtonbertie99/mykeys => ../../mykeys
 
 replace github.com/burlingtonbertie99/mykeys-ext/http/api => ../http/api
 

@@ -132,19 +132,12 @@ func (s *service) KeyGenerate(ctx context.Context, req *KeyGenerateRequest) (*Ke
 		return nil, errors.Errorf("no key type specified")
 	}
 
-	//if ctx.Value()=nil
-
-	var key keys.Key
-
-	var keystring = ""
+	var key keys.Key = nil
 
 	switch req.Type {
 
-	//case string(keys.SGXHSM):
-	//	//	key = keys.GenerateSGXHSMKey()
-
 	case string(keys.SGXHSM):
-		keystring = keys.GenerateSGXHSMKey()
+		key = keys.GenerateSGXHSMKey()
 
 	case string(keys.EdX25519):
 		key = keys.GenerateEdX25519Key()
@@ -152,13 +145,11 @@ func (s *service) KeyGenerate(ctx context.Context, req *KeyGenerateRequest) (*Ke
 		key = keys.GenerateX25519Key()
 
 	case string(keys.RSA):
+
 		key = keys.GenerateRSAKey()
 
 	default:
 		return nil, errors.Errorf("unknown key type %s", req.Type)
-	}
-	if keystring == "" {
-
 	}
 
 	vk := api.NewKey(key)
@@ -174,8 +165,13 @@ func (s *service) KeyGenerate(ctx context.Context, req *KeyGenerateRequest) (*Ke
 	}
 
 	return &KeyGenerateResponse{
+		KID: keystring,
+	}, nil
+
+	return &KeyGenerateResponse{
 		KID: vk.ID.String(),
 	}, nil
+
 }
 
 func (s *service) parseKID(kid string) (keys.ID, error) {

@@ -19,5 +19,3 @@ require (
 )
 
 replace github.com/burlingtonbertie99/mykeys-ext/auth/fido2 => ../fido2
-
-//replace github.com/keys-pub/go-libfido2 => ../../../go-libfido2
