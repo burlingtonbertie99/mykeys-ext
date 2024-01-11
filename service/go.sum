@@ -8,9 +8,6 @@ github.com/alta/protopatch v0.3.3/go.mod h1:Fon//d/jL8mn9EGpeFO2/dI0hdSauxtCkwno
 github.com/alta/protopatch v0.3.4 h1:v5ikhNxDh6LbZlOgCWP11hrbvH4TjOdonLIpv3H/XWg=
 github.com/alta/protopatch v0.3.4/go.mod h1:KOmWN/uy+F1TGzsHJpiz2CHzZ/VfmFM+9/yX2YY7QMI=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
-github.com/burlingtonbertie99/mykeys v0.0.4/go.mod h1:PSDfXfOsTEjveTMjjIbuOFu5uzWOmHCVgKSGERTbZt0=
-github.com/burlingtonbertie99/mykeys v0.0.4 h1:YDB7mImvgXu7GZYXFKPresY0xTxElbBjxo5OxZFUZeg=
-github.com/burlingtonbertie99/mykeys v0.0.4/go.mod h1:PSDfXfOsTEjveTMjjIbuOFu5uzWOmHCVgKSGERTbZt0=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=

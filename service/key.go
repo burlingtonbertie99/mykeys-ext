@@ -165,10 +165,6 @@ func (s *service) KeyGenerate(ctx context.Context, req *KeyGenerateRequest) (*Ke
 	}
 
 	return &KeyGenerateResponse{
-		KID: keystring,
-	}, nil
-
-	return &KeyGenerateResponse{
 		KID: vk.ID.String(),
 	}, nil
 

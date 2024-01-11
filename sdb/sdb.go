@@ -36,7 +36,11 @@ func (i *siter) Value() []byte {
 
 func newSDB(db *leveldb.DB, key SecretKey) *sdb {
 	cfg := sio.Config{
-		Key:        key[:],
+
+		Key: key[:],
+
+		// gives invalid key size
+		//Key:        key[32:],
 		MinVersion: sio.Version20,
 		MaxVersion: sio.Version20,
 	}
